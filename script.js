@@ -32,7 +32,6 @@ class DropDown {
                 }
             }
         })
-
         // this.itemsHTML = this.options.map(({value, label}) => {
         //     return `<li data-id=${value}>${label}</li>`
         // })
